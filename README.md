@@ -1,4 +1,4 @@
-<span style="color: red; font-size:4em;">Jason Zheng</span>  
+# Jason Zheng
 *January 28, 2022*  
 ---
 **Welcome to my awesome project!**  
